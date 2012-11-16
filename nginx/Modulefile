@@ -1,0 +1,9 @@
+name 'naxsoft-nginx'
+version '1.0'
+
+author 'Iouri'
+license ''
+project_page 'https://github.com/igouss/puppet'
+source ''
+summary ''
+description 'Install and configure nginx'
